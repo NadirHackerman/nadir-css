@@ -1,0 +1,43 @@
+/* Typographie */
+
+.nadir-text-red {
+  color: #df3c3e;
+}
+
+.nadir-text-blue {
+  color: #0078ff;
+}
+
+.nadir-text-orange {
+  color: #e77626;
+}
+
+.nadir-text-purple {
+  color: #b03eff;
+}
+
+.nadir-text-green {
+  color: #139e8c;
+}
+
+/* Buttons */
+
+.nadir-btn-red {
+  background: #df3c3e;
+}
+
+.nadir-btn-blue {
+  background: #0078ff;
+}
+
+.nadir-btn-orange {
+  background: #e77626;
+}
+
+.nadir-btn-purple {
+  background: #b03eff;
+}
+
+.nadir-btn-green {
+  background: #139e8c;
+}
